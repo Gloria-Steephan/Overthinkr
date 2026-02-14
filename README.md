@@ -371,12 +371,7 @@ python script.py -v --format json data.json
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
-
-### Additional Demos
-[Add any extra demo materials/links - Live site, APK download, online demo, etc.]
+https://drive.google.com/file/d/1bLBAHfK1FNlqg4VXtSYLsNfsAfJ-VR0j/view?usp=drivesdk
 
 ---
 
@@ -410,9 +405,9 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- Rachel Reegan: Frontend development, API integration
+  
+- Gloria Steephan: UI/UX design, Testing, Documentation
 
 ---
 
