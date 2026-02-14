@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Overthinkr 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Dimension X
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Gloria Steephan - Christ College of Engineering
+- Member 2: Rachel Reegan - Christ College of Engineering
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://v0-overthinkr-app.vercel.app/
 
 ### Project Description
-[2-3 lines about what your project does]
+Overthinkr is an AI-powered web application that analyzes short text messages to decode hidden emotional tone, subtext, and generational slang. Built using React (Vite) and deployed with Vercel serverless functions, the application securely integrates the Gemini API through a backend route to ensure API key protection. It provides a tone score, contextual explanation, and intelligent reply suggestions (Confident, Calm, and Witty) to help users better understand and respond to ambiguous digital conversations.
 
 ### The Problem statement
-[What problem are you solving?]
+In modern digital communication, short and ambiguous text messages often create confusion, misunderstandings, and overthinking. Tone, slang, punctuation, and response patterns (like dry texting or being left on read) can carry hidden emotional meaning that is difficult to interpret accurately.
 
 ### The Solution
-[How are you solving it?]
+Overthinkr is an AI-powered web application that analyzes text messages to detect emotional tone, tension level, and hidden subtext. It provides a clear explanation along with smart reply suggestions, helping users respond confidently and reduce miscommunication in digital conversations.
 
 ---
 
@@ -30,27 +30,35 @@
 
 ### Technologies/Components Used
 
-**For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+For Software:
+Languages used: JavaScript (ES6+), HTML5, CSS3
+Frameworks used: React (Vite), Vercel Serverless Functions
+Libraries used: Tesseract.js (OCR), Lucide React (icons), Tailwind CSS
+Tools used: VS Code, Git, GitHub, Vercel, Node.js, npm
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+For Hardware:
+Main components:
+Personal Computer / Laptop
+Internet Connection
 
+Specifications:
+Minimum 8GB RAM (recommended for smooth development)
+Modern Web Browser (Chrome, Edge, etc.)
+Node.js installed (v18+ recommended)
+
+Tools required:
+Keyboard & Mouse
+Stable Internet for API communication and deployment
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
 
+Feature 1: AI-powered tone and subtext analysis
+Feature 2: Emotional tension scoring (1–10)
+Feature 3: Smart reply suggestions (Confident, Calm, Witty)
+Feature 4: Screenshot text extraction using OCR
 ---
 
 ## Implementation
@@ -59,22 +67,24 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
-```
+npm install
 
+```
 #### Run
 ```bash
-[Run commands - e.g., npm start, python app.py]
+vercel dev
 ```
 
 ### For Hardware:
 
 #### Components Required
-[List all components needed with specifications]
+Laptop / PC (Minimum 8GB RAM recommended)
+Stable Internet Connection
+Modern Web Browser (Chrome, Edge, etc.)
+Node.js (v18 or higher)
 
 #### Circuit Setup
-[Explain how to set up the circuit]
-
+Not applicable — this is a software-only web application and does not require any hardware circuit setup.
 ---
 
 ## Project Documentation
